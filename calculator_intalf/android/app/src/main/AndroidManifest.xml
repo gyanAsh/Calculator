@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.calculator_intalf">
    <application
-        android:label="calculator_intalf"
+        android:label="InTALF Calculator"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
